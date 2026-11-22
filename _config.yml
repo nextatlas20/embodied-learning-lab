@@ -1,0 +1,10 @@
+title: Embodied Learning Lab
+description: Robot learning and tactile perception for robust embodied agents
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+lab:
+  pi: Naomi Adeyemi
+  institution: University of Michigan
+  email: nadeyemi@umich.edu
+  github: naadeyemi

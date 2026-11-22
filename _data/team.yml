@@ -1,0 +1,32 @@
+- name: Naomi Adeyemi
+  role: Faculty
+  focus: robot learning, tactile perception, and sim-to-real transfer
+  joined: 2021
+- name: Hana Kimura
+  role: Postdoc
+  focus: human-robot interaction and shared autonomy
+  joined: 2023
+- name: Tomas Brandt
+  role: Postdoc
+  focus: sim-to-real transfer and domain randomization
+  joined: 2022
+- name: Mei-Ling Chen
+  role: PhD Student
+  focus: tactile sensing and contact-rich manipulation
+  joined: 2023
+- name: Oskar Nowak
+  role: PhD Student
+  focus: visual-tactile representation learning
+  joined: 2024
+- name: Rafael Duarte
+  role: PhD Student
+  focus: dexterous manipulation and reinforcement learning
+  joined: 2022
+- name: Priya Nair
+  role: MSc Student
+  focus: policy learning under uncertainty
+  joined: 2024
+- name: Jonah Feldman
+  role: Undergraduate
+  focus: robot perception and sensor calibration
+  joined: 2025

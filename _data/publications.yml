@@ -1,0 +1,30 @@
+- title: "TactileGuard: Contact-Aware Safety Filters for Legged Manipulators"
+  venue: ICRA
+  year: 2025
+  first_author: Mei-Ling Chen
+  code: https://github.com/ell-robotics/tactileguard
+- title: "Domain Randomization Schedules for Sim-to-Real Transfer of Manipulation Policies"
+  venue: IROS
+  year: 2024
+  first_author: Tomas Brandt
+  code: null
+- title: "GelSight-Inspired Tactile Representations for Few-Shot Object Recognition"
+  venue: CoRL
+  year: 2024
+  first_author: Oskar Nowak
+  code: https://github.com/ell-robotics/tactile-representations
+- title: "Shared Autonomy with Learned Intent Inference for Assistive Robotic Arms"
+  venue: HRI
+  year: 2023
+  first_author: Hana Kimura
+  code: null
+- title: "Uncertainty-Aware Policy Selection for Contact-Rich Assembly"
+  venue: ICRA
+  year: 2023
+  first_author: Rafael Duarte
+  code: https://github.com/ell-robotics/uncertain-assembly
+- title: "Tactile Sim-to-Real Transfer via Differentiable Contact Models"
+  venue: T-RO
+  year: 2022
+  first_author: Sofia Marchetti
+  code: null
